@@ -27,7 +27,7 @@ atau dapat juga seperti berikut
 int arr[4][2] = {1234, 56, 1212, 33, 1434, 80, 1312, 78};
 ```
 
-### Arrnpointer 
+### C. Arrnpointer 
 Di dalam bahasa pemrograman C++, setiap tipe data memiliki pointer yang sesuai. Artinya, Kamu dapat membuat pointer untuk tipe data dasar seperti int, float, char, dan sebagainya. Tujuan utama dari pointer tipe data adalah untuk menunjuk ke lokasi memori tempat nilai tipe data tersebut disimpan. Misalnya, pointer int akan menunjuk ke alamat memori yang menyimpan nilai bilangan bulat. Contoh deklarasi dan inisialisasi pointer menggunakan bahasa C++ [3].
 
 ``` C++
