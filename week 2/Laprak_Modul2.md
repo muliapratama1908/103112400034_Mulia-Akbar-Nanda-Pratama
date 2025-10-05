@@ -277,7 +277,11 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1]https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%201/output%20un1.png
+![output unguided1_1.png](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%202/output%20unguided1_1.png)
+
+##### Output 2
+![output unguided1_2.png](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%202/output%20unguided1_2.png)
+
 
 Program yang menghitung operasi aritmatika menggunakan matriks 3x3, ada penjumlahan, pengurangan, dan perkalian. User dapat memilih salah satu menu yang ditampilkan, lalu akan muncul outputnya.
 
@@ -329,7 +333,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1]https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%201/output%20un2.png
+![output unguided2.png](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%202/output%20unguided2.png)
 
 
 Program yang menghitung luas dan keliling persegi panjang menggunakan pointer. 
