@@ -156,7 +156,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![output_unguided1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%203/output_unguided1.png)
 
 Program yang bisa menyimpan data maksimal 10 ke dalam sebuah array, yang di mana program tersebut berisi inputan nama, nim, dan nilai.
 
@@ -216,7 +216,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![output_unguided2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%203/output_unguided2.png)
 
 Program dengan konsep modularitas untuk membuat tipe data pelajaran yang menyimpan kode mapel dan nama, lalu di running di fungsi main.
 
@@ -286,7 +286,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided3](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided3.png)
+![output_unguided3](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%203/output_unguided3.png)
 
 Program ini mendemonstrasikan manipulasi data pada dua buah array dua dimensi berukuran 3x3 menggunakan fungsi dan pointer. Program memanggil sebuah fungsi khusus yang menggunakan pointer untuk mengambil nilai dari posisi tengah array A dan menukarnya dengan nilai dari posisi tengah array B. 
 
