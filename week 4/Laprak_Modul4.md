@@ -590,7 +590,7 @@ void insertFirst(List &L, address P);
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![soal 1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%204/soal%201.png)
 
 Program yang mengimplementasikan singly linked list yang dibuat menjadi 3 file. File *singlylist.h* berfungsi sebagai header yang mendefinisikan "cetak biru" dari struktur, termasuk node yang berisi data integer dan pointer next. *Singlylist.cpp*  berfungsi sebagai implementasi atau logika untuk fungsi-fungsi yang di deklarasikan di header. *main.cpp* berfungsi sebagai program utama yang menjalankan semua. Program itu membuat list kosong yang kemudian secara berurutan mengalokasikan dan menyisipkan angka 2, 0, 8, 12, dan 9, yang di mana setiap angka tersebut selalu ditambahkan di awal list.
 
@@ -763,7 +763,7 @@ void deleteList(List &L);
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![soal 2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%204/soal%202.png)
 
 Program di atas merupakan program yang berfungsi pada *operasi penghapusan singly linked list* yang telah ada pada soal pertama. Program di atas memuat fungsi **deleteFirst(), deleteLast(), deleteAfter()**. Setelah melakukan fungsi di atas, program akan melakukan verifikasi berupa program mencetak isi list yang tersisa yang menghasilkan output **12 0**, program kemudian memanggil fungsi **nbList()** untuk hitung jumlah elemen.
 
