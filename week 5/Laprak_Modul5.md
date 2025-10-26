@@ -608,7 +608,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![op1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%205/op1.png)
 
 Program yang mendemonstrasikan binary search pada struktur data singly linked list. 
 *struct Node*
@@ -734,7 +734,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%205/op2.png)
 
 program yang mendemonstrasikan linear search. Program ini menggunakan struct node dan fungsi append untuk membuat sebuah linked list dengan ditambahkannya elemen di akhir. Pada akhirnya fungsi akan mencetak DITEMUKAN dan mengembalikan pointer ke node.
 
