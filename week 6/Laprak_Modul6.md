@@ -852,7 +852,7 @@ Penjelasan: Program ini adalah implementasi Doubly Linked List dalam C++ yang di
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![un1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%206/un1.jpg)
 
 
 
@@ -1033,8 +1033,8 @@ Penjelasan: program yang dibuat berfungsi untuk mencari sebuah plat nomor yang s
 
 ### Output Unguided 2 :
 
-##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+##### Output 2
+![un2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%206/un2.jpg)
 
 
 
@@ -1208,8 +1208,8 @@ Penjelasan: program tersebut merupakan program yang dirancang untuk menghapus se
 
 ### Output Unguided 3 :
 
-##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+##### Output 3
+![un3](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%206/un3.jpg)
 
 
 
