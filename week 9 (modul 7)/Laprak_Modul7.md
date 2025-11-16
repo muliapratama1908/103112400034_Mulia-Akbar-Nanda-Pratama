@@ -513,7 +513,7 @@ Program implementasi stack berbasis array. Program utama berjalan di main.cpp ya
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![un 1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%209%20(modul%207)/un%201.jpeg)
 
 
 
@@ -663,7 +663,7 @@ Program tersebut tidak beda jauh dibanding program sebelumnya, hanya saja progra
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![un 2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%209%20(modul%207)/un%202.jpeg)
 
 
 
@@ -821,7 +821,7 @@ Program tersebut adalah program untuk membaca serangkaian digit yang diinput ole
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![un 3](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%209%20(modul%207)/un%203.jpeg)
 
 
 
