@@ -643,7 +643,7 @@ Program implementasi ADT queue dengan memanfaatkan array statis yang berkapasita
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![op1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2010%20(modul%208)/op1.jpeg)
 
 
 
@@ -765,7 +765,7 @@ Program tersebut menunjukkan cara kerja queue dengan array statis yang maksimal 
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2010%20(modul%208)/op2.jpeg)
 
 
 
@@ -890,7 +890,7 @@ Progam tersebut merupakan program alternatif 3 dari yang sebelumnya dibuat, namu
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op3](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2010%20(modul%208)/op3.jpeg)
 
 
 
