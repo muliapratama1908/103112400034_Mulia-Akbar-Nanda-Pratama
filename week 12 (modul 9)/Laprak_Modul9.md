@@ -764,7 +764,7 @@ void printInOrder(address root);
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![o1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2012%20(modul%209)/o1.jpeg)
 
 program yang mengimplementasikan bst dengan linked list ddan menggunakan operasi insert dan traversal InOrder. Program ini membuat struktur data tree yang terurut secara otomatis. Setiap kali data dimasukkan, program akan menempatkannya di posisi yang tepat sesuai aturan BST (nilai kecil di kiri, nilai besar di kanan).
 
@@ -909,7 +909,7 @@ int hitungKedalaman(address root);
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![o2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2012%20(modul%209)/o2.jpeg)
 
 
 program yang menambahkan fungsi hitungJumlahNode, hitungTotalInfo, dan hitungKedalaman
@@ -1024,7 +1024,7 @@ void printPostOrder(address root);
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![o3](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2012%20(modul%209)/o3.jpeg)
 
 program binary search yang mengimplementasikan operasi traversal pre order dan post order.
 
