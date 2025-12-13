@@ -599,10 +599,10 @@ void deleteListChild(listChild &LChild);
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![op1.1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2013%20(modul%2013)/op1.1.jpeg)
 
 ##### Output 2
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![op1.2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2013%20(modul%2013)/op1.2.jpeg)
 
 Program tersebut mengimplementasikan struktur data mmulti linked list yang di mana digunakan untuk mengellola data hewan yang dikelompokkan berdasarkan golongan. Struktur data ini mempunyai dua level yaitu parent list yang berisikan golongan hewan, dan child yang berisikan hewan hewan individual dalam setiap golongan. Di struktur data parent, tiap node nya menyimpan informasi golongan hewan seperti ID dan nama golongan. Serta parent list diimplementasikan sebagai double linked list yang di mana setiap node memiliki pointer ke node sebelumnya dan sesudahnya, serta pointer first dan last untuk akses cepat ke awal dan akhir list. Untuk tiap parent node juga punya child list masing masing yang menyimpan nama nama hewan yang termasuk ke dalam golongan tersebut. Child list di contohkan sebagai double linked list yang di mana setiap node nya menyimpan data lengkap hewan, habitat, keberadaan, dan bobot.
 
@@ -872,7 +872,7 @@ void searchHewanByEkor(listParent LParent, bool tail);
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2013%20(modul%2013)/op2.jpeg)
 
 Kode ini merupakan pengembangan dari implementasi Multi-Linked List sebelumnya dengan penambahan fitur pencarian hewan berdasarkan karakteristik ekor. Struktur data tetap menggunakan arsitektur dua level dengan parent list untuk golongan hewan dan child list untuk data hewan individual, namun kali ini dilengkapi dengan fungsi pencarian yang lebih spesifik. Fungsi baru yang ditambahkan adalah searchHewanByEkor yang menerima parameter listParent dan nilai boolean tail untuk mencari semua hewan yang memiliki atau tidak memiliki ekor sesuai kriteria pencarian. Fungsi ini bekerja dengan melakukan traversal nested loop, dimana loop luar menelusuri setiap parent node (golongan hewan) dan loop dalam menelusuri setiap child node (hewan) dalam golongan tersebut. Setiap kali menemukan hewan yang sesuai dengan kriteria ekor yang dicari, fungsi akan menampilkan informasi lengkap baik data child maupun data parent-nya. Output dari fungsi pencarian menampilkan informasi secara terstruktur dan detail, mencakup posisi ditemukannya data dalam list, ID dan nama hewan, habitat, status ekor, bobot hewan, serta informasi parent berupa ID golongan, posisi dalam list induk, dan nama golongan. Sistem pencatatan posisi menggunakan counter yang diinisialisasi dari 1 dan bertambah setiap kali pointer berpindah ke node berikutnya.
 
@@ -1150,10 +1150,10 @@ void searchHewanByEkor(listParent L, bool tail);
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op3.1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2013%20(modul%2013)/op3.1.jpeg)
 
 ##### Output 2
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op3.2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2013%20(modul%2013)/op3.2.jpeg)
 
 Fungsi baru yang menjadi fokus utama adalah deleteParent yang menerima parameter listParent dan string ID untuk mencari dan menghapus parent node tertentu. Fungsi ini dirancang dengan logika yang cermat untuk menangani berbagai kasus penghapusan: jika node yang akan dihapus berada di posisi pertama, fungsi akan memanggil deleteFirstParent, sedangkan untuk posisi lainnya akan menggunakan deleteAfterParent. Yang sangat penting adalah sebelum menghapus parent node, fungsi ini terlebih dahulu memanggil deleteListChild untuk menghapus semua child node yang terkait, memastikan tidak ada memory leak dan menjaga integritas struktur data. Proses pencarian node dilakukan dengan traversal linear dari awal list hingga menemukan node dengan ID yang sesuai. Program utama mendemonstrasikan tiga operasi utama secara berurutan untuk memberikan gambaran lengkap tentang fungsionalitas sistem. Pertama, program menampilkan data awal yang berisi lima golongan hewan dengan berbagai anggotanya menggunakan fungsi printMLLStructure. Kedua, program melakukan pencarian hewan yang tidak memiliki ekor dengan memanggil searchHewanByEkor dan parameter false, yang akan menemukan Gorila dari golongan Mamalia dan Kodok dari golongan Amfibi. Ketiga, program menghapus golongan Amfibi dengan ID "G004" menggunakan fungsi deleteParent, yang secara otomatis juga menghapus Kodok sebagai anggota satu-satunya dari golongan tersebut.
 
