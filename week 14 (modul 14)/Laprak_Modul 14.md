@@ -337,7 +337,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided1_1](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided1.png)
+![op1](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2014%20(modul%2014)/op1.jpeg)
 
 Program tersebut mengimplementasikan strukdat graph tidak berarah dengan menggunakan metode pendekatan adjacency list atau multilist. Struktur ini dibangun menggunakan elemen simpul atau ElmNode yang menyimpan informasi, dan elemen sisi atau ElmEdge yang berfungsi sebagai penghubung antar simpul. Pada file graph.cpp, program memungkinkan pembuatan graf secara dinamis, penyisipan simpul baru, serta pembentukan relasi dua arah antar simpul melalui prosedur ConnectNode.
 
@@ -517,7 +517,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op2](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2014%20(modul%2014)/op2.jpeg)
 
 Program tersebut merupakan implementasi dari graph tidak berarah yang menggunakan adjacency list. Melalui penggunaan elemen simpul (ElmNode) dan simpul sisi (ElmEdge), program dapat menyimpan data secara dinamis serta membangun relasi dua arah antar simpul melalui prosedur ConnectNode. Selain fungsi dasar untuk membangun dan menampilkan struktur hubungan graf, program ini menyertakan prosedur PrintDFS yang berfungsi untuk menelusuri setiap simpul sedalam mungkin menggunakan logika rekursif. Implementasi akhir pada program utama berhasil merepresentasikan jaringan simpul A sampai H sesuai ilustrasi dan menampilkan urutan penelusuran simpul menggunakan algoritma Depth First Search (DFS).
 
@@ -724,7 +724,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided2](https://github.com/AchmadZulvan/103112400070_Achmad-Zulvan-Nur-Hakim/blob/main/Week3/Screenshot%20Output%20Unguided2.png)
+![op3](https://github.com/muliapratama1908/103112400034_Mulia-Akbar-Nanda-Pratama/blob/main/week%2014%20(modul%2014)/op3.jpeg)
 
 program tersebut merupakan implementasi struktur data Graf dengan representasi Adjacency List. gGaph.h yang mendefinisikan struktur data simpul (node) dan sisi (edge), graph.cpp yang mengimplementasikan fungsi-fungsi operasional seperti pembuatan graf, penambahan simpul, penyambungan antar-simpul secara undirected, serta algoritma penelusuran DFS (Depth First Search) dan BFS (Breadth First Search), dan main.cpp sebagai program utama. Dalam skenario yang dijalankan, program membangun sebuah graf yang terdiri dari delapan simpul (A hingga H) yang saling terhubung, kemudian menampilkan struktur keterhubungannya dan mencetak urutan kunjungan simpul berdasarkan metode penelusuran DFS dan BFS mulai dari simpul 'A'.
 
